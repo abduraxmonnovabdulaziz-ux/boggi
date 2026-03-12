@@ -1,0 +1,56 @@
+.wrapper2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.wrapper3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.wrapper4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.text {
+    width: 546px;
+    font-weight: 400;
+    font-size: 72px;
+    color: #36536B;
+
+    
+}
+
+.text-box {
+    width: 445px;
+    padding: 30px 0;
+}
+
+.tttt {
+    width: 445px;
+    color: #36536B;
+    font-weight: 400;
+    font-size: 48px;
+    padding: 20px;
+
+}
+
+.ttt {
+    width: 445px;
+    padding: 20px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box-text{
+    text-align: center;
+    padding: 15px ;
+}

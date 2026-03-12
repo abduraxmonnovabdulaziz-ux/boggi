@@ -1,0 +1,23 @@
+footer{
+    width: 100% ;
+    background-color: #1B262F;
+    padding: 20px 0;
+    color: white;
+}
+
+.wrapper5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px 15px;
+}
+.ft-ul{
+    display: flex;
+    align-items: center;
+    gap: 0 15px;
+}
+.quti{
+    display: flex;
+    gap: 0 30px;
+}
+

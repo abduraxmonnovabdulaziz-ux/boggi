@@ -1,0 +1,28 @@
+header{
+    padding: 20px;
+}
+.wrapper1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+
+
+.header-btn{
+    width: 175px;
+    padding: 15px 0;
+    background-color: #BA4270;
+    border-radius: 30px;
+    color: #fff;
+    border: none;
+}
+.header-ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 10px 10px;
+    color: #36536B;
+}
